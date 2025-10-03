@@ -3,7 +3,7 @@
 A simple, responsive Amazon Clone built using HTML, CSS, and JavaScript.
 This project mimics Amazon’s homepage design and layout with a clean UI, working across devices.
 
-[![Live Demo](https://daniish-qureshi.github.io/Amazone-Clone/)](https://daniish-qureshi.github.io/Amazone-Clone/)
+[![Live Demo](https://img.shields.io/badge/demo-live-brightgreen?style=for-the-badge)](https://daniish-qureshi.github.io/Amazone-Clone/)
 
 Built this with pure HTML, CSS, and JavaScript. It’s simple, responsive, and works smoothly across all devices without any frameworks.
 
