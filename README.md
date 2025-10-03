@@ -3,7 +3,7 @@
 A simple, responsive Amazon Clone built using HTML, CSS, and JavaScript.
 This project mimics Amazon’s homepage design and layout with a clean UI, working across devices.
 
-[![Live Demo](https://daniish-qureshi.github.io/Amazone-Clone/)](https://your-demo-url.vercel.app)
+[![Live Demo](https://daniish-qureshi.github.io/Amazone-Clone/)](https://daniish-qureshi.github.io/Amazone-Clone/)
 
 Built this with pure HTML, CSS, and JavaScript. It’s simple, responsive, and works smoothly across all devices without any frameworks.
 
@@ -35,7 +35,7 @@ The actual app in action - clean, fast, and responsive
 
 ## 👨‍💻 Author
 
-👤 Danish Qureshi
-📧 Email: danishwork29@gmail.com
-🌐 Portfolio: [danish-qureshi.vercel.app](https://danish-qureshi.vercel.app/)
-💬 LinkedIn: [Danish Qureshi](https://www.linkedin.com/in/danishqureshi786/)
+- 👤 Danish Qureshi
+- 📧 Email: danishwork29@gmail.com
+- 🌐 Portfolio: [danish-qureshi.vercel.app](https://danish-qureshi.vercel.app/)
+- 💬 LinkedIn: [Danish Qureshi](https://www.linkedin.com/in/danishqureshi786/)
