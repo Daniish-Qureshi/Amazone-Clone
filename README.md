@@ -10,10 +10,6 @@ Built this with pure HTML, CSS, and JavaScript. It’s simple, responsive, and w
 ## Preview
 
 ![App Screenshot](https://github.com/Daniish-Qureshi/Amazone-Clone/blob/main/Demo.jpg)
-![App Screenshot](https://github.com/Daniish-Qureshi/Amazone-Clone/blob/main/Demo%202.png)
-![App Screenshot](https://github.com/Daniish-Qureshi/Amazone-Clone/blob/main/Demo%203.jpg)
-![App Screenshot](https://github.com/Daniish-Qureshi/Amazone-Clone/blob/main/Demo%204.png)
-![App Screenshot](https://github.com/Daniish-Qureshi/Amazone-Clone/blob/main/Demo%205.png)
 
 The actual app in action - clean, fast, and responsive
 
